@@ -1,0 +1,14 @@
+/* Custom styles for Fitness and Health site */
+body {
+    background-color: #e8f5e8;
+}
+
+.hero {
+    background: linear-gradient(135deg, #388e3c 0%, #66bb6a 100%);
+    color: white;
+    padding: 100px 0;
+}
+
+.tip-card {
+    margin-bottom: 20px;
+}
